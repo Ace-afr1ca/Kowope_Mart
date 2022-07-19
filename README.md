@@ -21,3 +21,5 @@ Packages
 The error metric is Area Under the Curve.
 
 ## Private catboost score:0.844584508325732
+
+## The code was Run on Google colab
