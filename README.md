@@ -12,11 +12,12 @@ To help Kowope Mart to identify customers who are worthy of credit card, lines a
 Packages
 
 # Scikit learn
-Pandas
-Numpy
-Matplotlib
-CatBoost
-Evaluation Metric
+- Pandas
+- Numpy
+- Matplotlib
+- CatBoost
+
+# Evaluation Metric
 The error metric is Area Under the Curve.
 
-Private catboost score:0.844584508325732
+## Private catboost score:0.844584508325732
